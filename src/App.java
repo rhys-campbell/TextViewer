@@ -1,4 +1,6 @@
+"App.java":
 /**
+ * Text viewer App - prints the contents of a string to the console
  * Created by jc278710 on 9/03/15.
  */
 public class App {
